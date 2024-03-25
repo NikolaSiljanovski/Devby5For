@@ -1,3 +1,6 @@
+<div style="text-align:center;">
+  <img src="images/images.png" alt="Java Logo">
+</div>
 
 # Divisibility Checker
 
